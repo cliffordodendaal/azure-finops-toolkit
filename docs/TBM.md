@@ -5,7 +5,7 @@ It provides a consistent framework for reporting, chargeback, and showback acros
 
 ---
 
-## 📊 TBM IT Towers
+## TBM IT Towers
 
 | **TBM Tower** | **FOCUS Column(s)** | **Example Azure Service** | **Driver** |
 |---------------|----------------------|---------------------------|------------|
@@ -17,7 +17,7 @@ It provides a consistent framework for reporting, chargeback, and showback acros
 
 ---
 
-## 🔎 Cost Perspectives
+## Cost Perspectives
 
 FOCUS provides three cost perspectives, aligned with TBM reporting needs:
 
@@ -27,7 +27,7 @@ FOCUS provides three cost perspectives, aligned with TBM reporting needs:
 
 ---
 
-## 🏷️ Business Unit Mapping
+## Business Unit Mapping
 
 Business Units are derived from **tags** and subscription hierarchy:
 
@@ -39,7 +39,7 @@ Azure Policy enforces these tags to ensure consistent mapping.
 
 ---
 
-## ✅ Governance Notes
+## Governance Notes
 
 - All exports must be in **FOCUS schema**.  
 - Dashboards must report against **TBM towers**.  
