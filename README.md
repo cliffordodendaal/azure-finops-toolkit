@@ -8,14 +8,14 @@ This repository is a fork of [microsoft/finops-toolkit](https://github.com/micro
 - **Power BI reporting** — Starter templates and guidance for chargeback, showback, invoice reconciliation, and MACC burn‑down.
 - **Governance guardrails** — Azure Policy definitions and approval workflows for consistent tagging and controlled remediation.
 
-## 📂 Repo Structure
+## Repo Structure
 
 - `/docs/` → TBM.md, FOCUS.md, Reporting.md, Recommendations.md  
 - `/powershell/` → Exports.ps1, Transforms.ps1, Fixes.ps1, Recommendations.ps1  
 - `/powerbi/` → Chargeback.pbit, Finance.pbit, MACC.pbit  
 - `/governance/` → TagPolicy.json, ApprovalWorkflow.md  
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Install the FinOps Toolkit PowerShell module:
    ```powershell
